@@ -1,4 +1,3 @@
-from moviepy.editor import *
 from pytube import YouTube
 import streamlit as st
 import datetime
