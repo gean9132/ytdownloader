@@ -2,7 +2,6 @@ asgiref==3.5.0
 autopep8==1.6.0
 cycler==0.11.0
 distlib==0.3.4
-Django==4.0.1
 docutils==0.18
 filelock==3.4.2
 GDAL==3.3.3
